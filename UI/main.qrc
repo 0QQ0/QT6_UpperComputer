@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Icon/boxin.ico</file>
+        <file>Icon/bx.ico</file>
+        <file>Icon/close.ico</file>
+        <file>Icon/data.ico</file>
+        <file>Icon/message.ico</file>
+        <file>Icon/send.ico</file>
+        <file>Icon/ser.ico</file>
+        <file>Icon/small.ico</file>
+        <file>Icon/tell.ico</file>
+        <file>Icon/txxy.ico</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>img/R-C.jfif</file>
+    </qresource>
+    <qresource prefix="/pdf"/>
+    <qresource prefix="/">
+        <file>pdf/NM.pdf</file>
+    </qresource>
+</RCC>
